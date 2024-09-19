@@ -102,3 +102,6 @@ int main() {
 
     return 0;
 }
+
+//Output:
+ //The constant term 'c' :  3.0

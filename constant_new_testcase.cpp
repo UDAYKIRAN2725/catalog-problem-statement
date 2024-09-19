@@ -112,3 +112,6 @@ int main() {
 
     return 0;
 }
+
+//Output: 
+//The constant term (c) is: -2.00645e+09
